@@ -1,1 +1,6 @@
-# Classification_with_CNN_model_on_natural_image_Dataset
+Image Classification with CNN model on Natural Image DatasetImage Classification with CNN model on Natural Image Dataset
+
+  • Worked with a dataset of 6,899 images across 8 classes.
+  • Implemented data preprocessing techniques, including standardization and label conversion.
+  • Designed and trained a CNN model for image classification.
+  • Evaluated model performance with accuracy score and classification report
